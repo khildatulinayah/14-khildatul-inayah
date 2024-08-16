@@ -1,0 +1,14 @@
+C:\Users\sokif\source\repos\bilangan prima 14 khildatul inayah\bin\Debug\net8.0\bilangan prima 14 khildatul inayah.exe
+C:\Users\sokif\source\repos\bilangan prima 14 khildatul inayah\bin\Debug\net8.0\bilangan prima 14 khildatul inayah.deps.json
+C:\Users\sokif\source\repos\bilangan prima 14 khildatul inayah\bin\Debug\net8.0\bilangan prima 14 khildatul inayah.runtimeconfig.json
+C:\Users\sokif\source\repos\bilangan prima 14 khildatul inayah\bin\Debug\net8.0\bilangan prima 14 khildatul inayah.dll
+C:\Users\sokif\source\repos\bilangan prima 14 khildatul inayah\bin\Debug\net8.0\bilangan prima 14 khildatul inayah.pdb
+C:\Users\sokif\source\repos\bilangan prima 14 khildatul inayah\obj\Debug\net8.0\bilangan prima 14 khildatul inayah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sokif\source\repos\bilangan prima 14 khildatul inayah\obj\Debug\net8.0\bilangan prima 14 khildatul inayah.AssemblyInfoInputs.cache
+C:\Users\sokif\source\repos\bilangan prima 14 khildatul inayah\obj\Debug\net8.0\bilangan prima 14 khildatul inayah.AssemblyInfo.cs
+C:\Users\sokif\source\repos\bilangan prima 14 khildatul inayah\obj\Debug\net8.0\bilangan prima 14 khildatul inayah.csproj.CoreCompileInputs.cache
+C:\Users\sokif\source\repos\bilangan prima 14 khildatul inayah\obj\Debug\net8.0\bilangan prima 14 khildatul inayah.dll
+C:\Users\sokif\source\repos\bilangan prima 14 khildatul inayah\obj\Debug\net8.0\refint\bilangan prima 14 khildatul inayah.dll
+C:\Users\sokif\source\repos\bilangan prima 14 khildatul inayah\obj\Debug\net8.0\bilangan prima 14 khildatul inayah.pdb
+C:\Users\sokif\source\repos\bilangan prima 14 khildatul inayah\obj\Debug\net8.0\bilangan prima 14 khildatul inayah.genruntimeconfig.cache
+C:\Users\sokif\source\repos\bilangan prima 14 khildatul inayah\obj\Debug\net8.0\ref\bilangan prima 14 khildatul inayah.dll
